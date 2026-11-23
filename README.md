@@ -11,7 +11,6 @@ RPA Developer with 2+ years of experience building, maintaining and supporting p
 |---|---|---|
 | [Automatic Retries for Emails Missing Attachments](attachment-retry-benchmark/) | Reusable fix applied to two production processes; 100% reduction in reprocessing requests, validated with a before/after benchmark | UiPath |
 | [Root-Cause Fix for Low Disk Space on RPA Servers](server-storage-cleanup/) | Automated cleanup plus root-cause fix in Outlook's offline cache; free space increased from as low as 6% to 25–42% across 5 servers | UiPath, Outlook / Exchange |
-| [Automated Server Sign-In](server-login-automation/) | Documented access routes and automated sign-in to 7 server sessions across 4 client environments; daily sign-in time reduced from 30–60 min to 5 min or less | UiPath |
 | [SAT Document Downloads (CSF and Tax Compliance Opinion)](power-automate-sat-documents/) | Two Power Automate Desktop flows that download each client's SAT Tax Status Certificate and Tax Compliance Opinion with their e.firma, filing them automatically by document type, year and month | Power Automate Desktop |
 
 ## Skills Demonstrated
@@ -24,6 +23,6 @@ RPA Developer with 2+ years of experience building, maintaining and supporting p
 
 ## Contact
 - GitHub: [AndrikAnguiano](https://github.com/AndrikAnguiano)
-- LinkedIn: [AndrikAnguiano](www.linkedin.com/in/andrik-anguiano-fernandez-7b601a302)
+- LinkedIn: [Andrik Anguiano](https://www.linkedin.com/in/andrik-anguiano-fernandez-7b601a302)
 
 *Client and company data in this repository has been replaced with generic values to protect confidentiality.*
