@@ -24,6 +24,6 @@ RPA Developer with 2+ years of experience building, maintaining and supporting p
 
 ## Contact
 - GitHub: [AndrikAnguiano](https://github.com/AndrikAnguiano)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [AndrikAnguiano](www.linkedin.com/in/andrik-anguiano-fernandez-7b601a302)
 
 *Client and company data in this repository has been replaced with generic values to protect confidentiality.*
