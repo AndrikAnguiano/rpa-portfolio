@@ -1,6 +1,6 @@
 # Root-Cause Fix for Low Disk Space on RPA Servers
 
-**Technology:** UiPath · Outlook / Exchange configuration · Windows Server
+**Technology:** UiPath (cleanup and monitoring processes) · Outlook / Exchange configuration · Windows Server
 
 ## Problem
 Multiple RPA bot servers repeatedly ran low on C drive space, triggering recurring alerts from the infrastructure team and putting automated processes at risk of failure. Each occurrence required manual intervention.
@@ -38,7 +38,9 @@ A new internal monitoring process sends a notification when C drive free space d
 
 ![Before and after](images/storage.png)
 
+The full issue record, with configuration steps and before/after evidence for each server, is available in [RPA_Server_Disk_Space_Issue_Record.pdf](RPA_Server_Disk_Space_Issue_Record.pdf).
+
 ## Key Takeaway
 The first fix treated the symptom. Monitoring its results showed it wasn't enough, which led to finding and fixing the real cause with a low-risk, tested configuration change.
 
-*Server names have been replaced with generic values. The cleanup process code is owned by my employer; this page documents the case.*
+*Server names, account names, email addresses and mailbox names have been replaced with generic values to protect client confidentiality. Disk space figures and results reflect the real data. The cleanup and monitoring process code is owned by my employer; this page documents the case.*
