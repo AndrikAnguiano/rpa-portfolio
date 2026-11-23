@@ -1,3 +1,5 @@
+Power Automate flow that signs in to Mexico's tax authority (SAT) portal with each client's e.firma, downloads their Tax Status Certificate and files it automatically by year and month.
+
 # Descarga automática de Constancias de Situación Fiscal (CSF)
 
 **Tecnología:** Power Automate
